@@ -28,7 +28,7 @@ I'm currently Developing software ...
 <br><br><br>
 
 <p align="left">
-    vectorlogo
+    lang
     <code> <img height="50" src="img/packal.svg"> </code>
     <code> <img height="50" src="img/logocplus.svg"> </code>
     <code> <img height="50" src="img/logocsharp.svg"> </code>
@@ -36,7 +36,7 @@ I'm currently Developing software ...
     <code> <img height="50" src="img/logopython.svg"> </code>
 </p>
 <p align="left">
-    vectorlogo
+    other
     <code> <img height="50" src="img/logoqt.svg"> </code>
     <code> <img height="50" src="img/logonetcore.svg"> </code>
     <code> <img height="50" src="img/logomysql.svg"> </code>
@@ -49,8 +49,8 @@ I'm currently Developing software ...
 <p align="center">
     <b>My git activites</b></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d0codesoft&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=d0codesoft&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
 <hr>
