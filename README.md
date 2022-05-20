@@ -6,7 +6,6 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Age-43-blue" />
-    <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
     <img src="https://img.shields.io/badge/Lives-Ukraine-success" />
     <img src="https://img.shields.io/badge/Languages-Ukrain%20%26%20English%20%26%20Russian-brightgreen" />
 </p>
@@ -29,7 +28,7 @@ I'm currently Developing software ...
 
 <p align="left">
     lang
-    <code> <img height="50" src="img/packal.svg"> </code>
+    <code> <img height="50" src="img/pascal.svg"> </code>
     <code> <img height="50" src="img/logocplus.svg"> </code>
     <code> <img height="50" src="img/logocsharp.svg"> </code>
     <code> <img height="50" src="img/logojavascript.svg"> </code>
