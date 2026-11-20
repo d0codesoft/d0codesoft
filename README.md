@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Age-43-blue" />
+    <img src="https://img.shields.io/badge/Age-47-blue" />
     <img src="https://img.shields.io/badge/Lives-Ukraine-success" />
     <img src="https://img.shields.io/badge/Languages-Ukrain%20%26%20English%20%26%20Russian-brightgreen" />
 </p>
